@@ -1,6 +1,4 @@
 pomme
 pomme verte
-<<<<<<< HEAD
 pomme rouge
-=======
->>>>>>> 73e35d0a6b752a5043b1d25714d49e0554b9299c
+
